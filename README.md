@@ -1,6 +1,6 @@
 Hi, I’m Stephen Mwangangi. I’m interested in research, data science and geospatial analysis, 
 and seeks to leverage my passion in solving practical problems and generating evidence-based solutions. 
-I’m currently learning Data Science at ALX_Africa and I’m looking foward to grow my tech skills holistically and build my problem-solving capacity.
+I’m currently learning Data Science at ALX_Africa and working as a consulting data analyst.
 You can reach me through my email: mwangangisofficial@gmail.com
 
 
